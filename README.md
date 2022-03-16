@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Franklinmoura
-- 👀 I’m interested in Python and IaC lerning
-- 🌱 I’m currently learning Python, AWS, Azure, Germany language and english.
+- 👀 I’m interested in HTML, CSS, JavaScript, Python and IaC lerning
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, AWS, Azure, Germany language and english.
 - 💞️ I’m looking to collaborate on developing software to help people on dificult life.
 - 📫 How to reach me? My name is Franklin Moura, email address: ramos.franklin@gmail.com, linkedin: @franklin_moura
 
