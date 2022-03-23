@@ -23,10 +23,13 @@
 
   </div>
   <div>
+   <hr>
+   ![Franklinmoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franklinmoura&hide=contribs,prs)<br>
+![Franklinmoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franklinmoura&show_icons=true&theme=radical)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Franklinmoura)](https://github.com/anuraghazra/github-readme-stats)<br>
 
   </div>
-![Franklinmoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franklinmoura&hide=contribs,prs)
-![Franklinmoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franklinmoura&show_icons=true&theme=radical)
+
 
 
 
