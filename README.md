@@ -41,7 +41,16 @@
    
    ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 </div>
+<hr>
 
+<h1>Statistics</h1>
+
+<div>
+   
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franklinmoura&show_icons=true&theme=radical)
+   [![Franklinmoura's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Franklinmoura)](https://github.com/anuraghazra/github-readme-stats)
+   
+</div>
 
 <hr>
 <h1>Toos I'm reading and learning about</h1>
