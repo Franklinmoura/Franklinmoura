@@ -44,7 +44,7 @@
 
 
 <hr>
-<h1>Toos I'm reading about and learning</h1>
+<h1>Toos I'm reading and learning about</h1>
 <div>
    
    ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
