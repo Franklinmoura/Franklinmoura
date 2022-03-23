@@ -1,6 +1,8 @@
 
 <h1> About Me</h1>
 <hr>
+
+   
 <div>
   
   <p> 👋 Hi, I’m Franklin Ramos de Moura 🖐️ </p>
@@ -15,13 +17,16 @@
       <li>Email Address: ramos.franklin@gmail.com</li>
       <li><p=><span style="font-size:25px;color:white"><a href="https://twitter.com/franklinmoura">Franklin's Twitter</span></a></p></li>
       <li><p=><span style="font-size:25px;color:white"><a href="https://www.linkedin.com/in/franklinmoura/">Franklin's Linkedin</span></a></p></li>
+ 
+      
   </ul>
-  ##
+
   </div>
   <div>
 
   </div>
-
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <!---
