@@ -25,8 +25,9 @@
   <div>
 
   </div>
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Franklinmoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franklinmoura&hide=contribs,prs)
+![Franklinmoura's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franklinmoura&show_icons=true&theme=radical)
+
 
 
 <!---
