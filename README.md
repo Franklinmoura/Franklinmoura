@@ -17,8 +17,6 @@
       <li>Email Address: ramos.franklin@gmail.com</li>
       <li><p=><span style="font-size:25px;color:white"><a href="https://twitter.com/franklinmoura">Franklin's Twitter</span></a></p></li>
       <li><p=><span style="font-size:25px;color:white"><a href="https://www.linkedin.com/in/franklinmoura/">Franklin's Linkedin</span></a></p></li>
- 
-      
   </ul>
 
   </div>
